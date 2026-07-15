@@ -1,0 +1,6 @@
+{
+  "name": "Sofra Restaurant",
+  "description": "صفحة هبوط احترافية وعصرية لمطعم سفرة، تتيح استعراض قائمة الطعام، حجز الطاولات، العروض الخاصة، ومواقع التواصل",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,46 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Tajawal", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: "Playfair Display", Georgia, serif;
+  
+  --color-gold-50: #fbf7f0;
+  --color-gold-100: #f5eedc;
+  --color-gold-500: #c5a880;
+  --color-gold-600: #b09168;
+  --color-gold-700: #93734e;
+  --color-gold-800: #75593c;
+  
+  --color-brand-charcoal: #201a15;
+}
+
+/* Custom smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Simple modern animations or helper styles */
+.gold-gradient-bg {
+  background: linear-gradient(135deg, #201a15 0%, #3a3027 100%);
+}
+
+.gold-gradient-text {
+  background: linear-gradient(135deg, #e3cdad 0%, #c5a880 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* Custom Webkit Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #FCFAF7;
+}
+::-webkit-scrollbar-thumb {
+  background: #c5a880;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #b09168;
+}
