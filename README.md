@@ -17,5 +17,19 @@ A modern and responsive Arabic restaurant landing page built with **React**, **V
  **Website:**
 https://sofra-restaurant1.vercel.app/
 
+## 📸 Website Preview
 
+### 🏠 Hero Section
+
+<p align="center">
+  <img src="README-assets/hero.png" alt="Hero Section" width="100%">
+</p>
+
+---
+
+### 🍽️ Menu Section
+
+<p align="center">
+  <img src="README-assets/menu.png" alt="Menu Section" width="100%">
+</p>
 
