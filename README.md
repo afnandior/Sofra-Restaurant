@@ -4,8 +4,7 @@
   <img src="README-assets/hero.png" alt="Hero Section" width="100%">
 </p>
 
-              A modern and responsive Arabic restaurant landing page built with **React**, **Vite**, and **Tailwind CSS**.
-
+              A modern and responsive Arabic restaurant landing page 
 ##  Features
 
 * Responsive design for all devices
