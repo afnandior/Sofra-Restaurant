@@ -1,4 +1,9 @@
 # 🍽️ Sofra Restaurant Landing Page
+###  Hero Section
+
+<p align="center">
+  <img src="README-assets/hero.png" alt="Hero Section" width="100%">
+</p>
 
 A modern and responsive Arabic restaurant landing page built with **React**, **Vite**, and **Tailwind CSS**.
 
@@ -19,11 +24,6 @@ https://sofra-restaurant1.vercel.app/
 
 ##  Website Preview
 
-###  Hero Section
-
-<p align="center">
-  <img src="README-assets/hero.png" alt="Hero Section" width="100%">
-</p>
 
 ---
 
